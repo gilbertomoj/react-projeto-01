@@ -1,0 +1,15 @@
+.main-footer {
+    color: white;
+    background-color: black;
+    bottom: 0;
+    width: 100%;
+  }
+.row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+li{
+    font-size: 10px;
+}
